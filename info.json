@@ -1,0 +1,11 @@
+{
+    "name": "FactorioExtended-Trains",
+    "version": "0.3.1",
+	"factorio_version": "0.16",
+	"date": "2018-01-4",
+    "title": "FactorioExtended-Trains",
+    "author": "Nath Gamer",
+	"homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=93&t=19836",
+    "description": "For your transporting needs here comes Factorio Extended to help you along!",
+	"dependencies": ["base", "FactorioExtended-Core >= 0.3.1", "FactorioExtended-Transport = 0.3.1"]
+}
